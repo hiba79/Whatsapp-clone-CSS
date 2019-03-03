@@ -21,7 +21,7 @@ div.header{
     overflow: hidden;
     position: fixed;
     top: 0;
-    padding-right: 95px;
+/*     padding-right: 95px; */
     box-sizing: border-box;
     color: #fff;
     font-size: 1.3%;
